@@ -1,2 +1,6 @@
-nums_2 = nums.sort(reverse=True)
-# print(nums_2)
+dict = {
+    'a':3,
+    'b':4
+}
+dict['d'] = 4
+print(dict)
