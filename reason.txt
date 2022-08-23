@@ -1,0 +1,17 @@
+F:/Anaconda/Scripts/activate.bat
+love
+我喜欢编程
+dfas
+我爱你
+python -u "e:\python_practice_1\test_review\practice10-5.py"
+python -u "e:\python_practice_1\test_review\practice10-5.py"
+python -u "e:\python_practice_1\test_review\practice10-5.py"
+python -u "e:\python_practice_1\test_review\practice10-5.py"
+我爱你
+i love you
+sspython -u "e:\python_practice_1\test_review\practice10-5.py"
+F:/Anaconda/Scripts/activate.bat
+python -u "e:\python_practice_1\helloworld.py"
+python -u "e:\python_practice_1\helloworld.py"
+python -u "e:\python_practice_1\helloworld.py"
+python -u "e:\python_practice_1\helloworld.py"

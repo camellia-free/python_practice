@@ -1,6 +1,3 @@
-dict = {
-    'a':3,
-    'b':4
-}
-dict['d'] = 4
-print(dict)
+with open('guest_book.txt', 'w') as fi:
+    fi.write("hello world.\n")
+    fi.write("I love the world.\n")
