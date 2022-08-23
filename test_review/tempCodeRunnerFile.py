@@ -1,6 +1,12 @@
-def print_icon(raw):
-    for i in range(1, raw+1):
-        print((raw-i)*' '+(2*i-1)*'*')
-        
-print_icon(3)
-        
+from curses.ascii import isdigit
+
+
+from _curses import*
+num = input("please:")
+a = ''
+for i in num:
+    if str.isdigit(i):
+        a += i
+    else:
+        break
+print(a)
