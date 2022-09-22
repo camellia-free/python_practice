@@ -1,0 +1,1 @@
+nt(win.title)
